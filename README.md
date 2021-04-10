@@ -81,6 +81,10 @@ Badger's Documentation: https://docs.badger.store/
 
 Badger's Discord: https://discord.com/invite/WjB5VFz
 
+Credit For The Gif's
+
+https://github.com/Jordan2139
+
 # Discord's
 ```
 Need Help With Permissions Or AnyThing? Join My Discord - https://discord.gg/Rq5yCgTSPD Or Dm Me @| DiLLuZioNz |#0035
