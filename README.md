@@ -73,7 +73,7 @@ THIS IS NOT THE FINAL VERISON.. THIS IS A PRE RELEASE VERISON. WILL BE RELEASING
 ```
 
 # Credits
-Badger is the creator of come of these Script's.
+Badger is the creator of some of these Script's.
 
 Badger's Github: https://github.com/JaredScar
 
