@@ -6,11 +6,11 @@ This Is A Fully Setup FiveM RolePlay Server.
 # What Is In This Server?
 *Some Of The Main Script's Are!*
 
-Badger_Discord_API, Fully Setup In the Config.Lua File. Be Carfull When Trying to Change, Make Sure You Do it Correctly.
+Badger_Discord_API, Fully Setup In the Config.Lua File. Be Carful When Trying to Change, Make Sure You Do it Correctly.
 
-Badger's DiscordPedPerms, Fully Setup In the Config.Lua File. Be Carfull When Trying to Change, Make Sure You Do it Correctly.
+Badger's DiscordAcePerms, Fully Setup In the Config.Lua File. Be Carful When Trying to Change, Make Sure You Do it Correctly.
 
-Menu Permissions, Fully Setup In the Config.Lua File. Be Carfull When Trying to Change, Make Sure You Do it Correctly.
+Menu Permissions, Fully Setup In the Config.Lua File. Be Carful When Trying to Change, Make Sure You Do it Correctly.
 
 Badger's Badssentials: AOP/PT/HUD/Announcement Script.
 
